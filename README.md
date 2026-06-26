@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/chetanyapiyush/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
