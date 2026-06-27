@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/chetanyapiyush/leetcode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
