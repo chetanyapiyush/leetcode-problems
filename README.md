@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/chetanyapiyush/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/chetanyapiyush/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/chetanyapiyush/leetcode-problems/tree/master/0520-detect-capital) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/chetanyapiyush/leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/chetanyapiyush/leetcode-problems/tree/master/2129-capitalize-the-title) |
 ## Greedy
 |  |
